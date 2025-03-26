@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of the implemented features:
 
-<img src='Lab 6 Walkthrough .gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Lab 6 walkthrough .gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
